@@ -96,6 +96,11 @@
 * **Ткачева Вера** — MLP
 * **Саев Матвей** — бизнес-анализ, inference pipeline, MVP, README
 
+
+**Ссылки:**
+- Эксперименты в Dugshub: https://dagshub.com/leosh1d/gp5/experiments
+- Датасет для CNN: https://www.kaggle.com/datasets/imbikramsaha/food11
+- Датасет для MLP: https://www.kaggle.com/datasets/michaelfumery/enopenfoodfactsorgproducts?select=cleaned_openfoodfacts.csv
 **Источники данных:**
 - https://www.kaggle.com/datasets/michaelfumery/enopenfoodfactsorgproducts?select=cleaned_openfoodfacts.csv
 - https://www.kaggle.com/datasets/imbikramsaha/food11
